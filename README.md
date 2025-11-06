@@ -33,3 +33,4 @@ AI-powered email reply generator for Gmail using Google Gemini AI.
 ## 🌐 Backend
 
 Connects to: https://smart-email-writer-sb-production.up.railway.app
+# Production ready
